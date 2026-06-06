@@ -1,0 +1,1 @@
+import{r}from"./request-C213W0l2.js";function u(e){return r({url:"/api/nurses",method:"get",params:e})}function n(e){return r({url:"/api/nurses",method:"post",data:e})}function s(e){return r({url:"/api/nurses",method:"put",data:e})}function o(e){return r({url:`/api/nurses/${e}`,method:"delete"})}export{n as c,u as g,o as r,s as u};

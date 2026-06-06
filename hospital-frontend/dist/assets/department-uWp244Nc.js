@@ -1,0 +1,1 @@
+import{r as e}from"./request-C213W0l2.js";function n(){return e({url:"/api/departments",method:"get"})}function u(t){return e({url:"/api/departments",method:"post",data:t})}function a(t){return e({url:"/api/departments",method:"put",data:t})}function o(t){return e({url:`/api/departments/${t}`,method:"delete"})}export{u as c,n as g,o as r,a as u};
